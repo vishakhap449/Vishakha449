@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **Vishakhap449@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TBANrX92vbCaBr9luuGvxNX6tw1zRpbt/view?usp=sharing](https://drive.google.com/file/d/1TBANrX92vbCaBr9luuGvxNX6tw1zRpbt/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vishakha pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishakha pandey" height="30" width="40" /></a>
